@@ -15,5 +15,5 @@ AUS-ERP-COMP-Q(1.0.0) up to 2024-Q1
 
 AUS-ERP-COMP-Q(1.0.0) up to 2024-Q1
 
-Instructions: Download *InAppReportingShowCase_PowerApp.zip* and import it into any Power Platform as a new canvas app. The app is self-contained and made portable; there is no need to download or connect to data separately. In the app, technical notes are provided as comments in the OnVisible event of AUSPopScreen.
+Instructions: Download *InAppReportingShowCase_PowerApp.zip* and import it into a Power Platform environment as a new canvas app. The app is self-contained and made portable; there is no need to download or connect to data separately. In the app, technical notes are provided as comments in the OnVisible event of AUSPopScreen.
 
